@@ -3,11 +3,11 @@ inFeed: true
 hasPage: false
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Boston based technologist sharing content to my new Grid site
-datePublished: '2016-02-16T16:09:12.160Z'
-dateModified: '2016-02-16T16:08:49.190Z'
+datePublished: '2016-02-16T16:10:07.586Z'
+dateModified: '2016-02-16T16:10:05.073Z'
 title: Jake Hansen
 author: []
 authors: []
