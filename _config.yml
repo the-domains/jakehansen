@@ -1,5 +1,8 @@
+name: Jakehansen
+favicon: null
+layout_spectrum: 0.70785
+typography_spectrum: 0.52662
 title: Jake Hansen Technology
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.7244898
-  brandStrength: 1
-  lightness: 1
   brandColors:
     - '#0F050C'
     - '#4B4B5C'
     - '#FFF2CF'
     - '#991F20'
     - '#C516A3'
-  rhythmicContrast: 0.2787325
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: Jakehansen
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.6718582
-layout_spectrum: 1
+  brandStrength: 0.3125
+  lightness: 0
+  saturation: 0.7244898
+  rhythmicContrast: 1
+purpose: []
