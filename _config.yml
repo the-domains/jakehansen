@@ -1,14 +1,28 @@
+name: Jakehansen
+favicon: null
 layout_spectrum: 1
+typography_spectrum: 0.1186896
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.6546724
-  lightness: 1
-  brandStrength: 0.9779807
   brandColors:
     - '#0A070C'
     - '#FFFAE9'
     - '#5C5C4B'
     - '#F2CF77'
     - '#20BC92'
+  brandStrength: 0.9779807
+  lightness: 1
+  saturation: 0.6546724
   rhythmicContrast: 0.1387153
-typography_spectrum: 0.1186896
-name: Jakehansen
+purpose: []
