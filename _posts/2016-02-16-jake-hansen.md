@@ -6,18 +6,18 @@ inLanguage: null
 starred: true
 keywords: []
 description: Boston based technologist sharing content to my new Grid site
-datePublished: '2016-02-16T16:10:07.586Z'
-dateModified: '2016-02-16T16:10:05.073Z'
-title: Jake Hansen
+datePublished: '2016-02-16T16:13:46.526Z'
+dateModified: '2016-02-16T16:11:18.415Z'
+title: Who I am...
 author: []
+sourcePath: _posts/2016-02-16-jake-hansen.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-16-jake-hansen.md
-published: true
 _type: Blurb
 
 ---
