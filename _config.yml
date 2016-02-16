@@ -6,23 +6,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
-  saturation: 1
+  saturation: 0.7244898
   brandStrength: 0
   lightness: 1
   brandColors:
-    - '#0A070C'
-    - '#FFFAE9'
-    - '#5C5C4B'
-    - '#F2CF77'
-    - '#20BC92'
-  rhythmicContrast: 0
+    - '#FFFFFF'
+    - '#161517'
+    - '#4C4C53'
+    - '#D8BC78'
+    - '#5B80A4'
+  rhythmicContrast: 0.2787325
 cta:
   bucket: null
   version: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: Jakehansen
+favicon: null
 opengraph:
   image: null
   type: null
