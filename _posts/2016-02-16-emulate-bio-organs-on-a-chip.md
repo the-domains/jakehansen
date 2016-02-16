@@ -22,7 +22,7 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.fastcoexist.com/3055583/how-this-lung-on-a-chip-could-help-asthma-patients-breathe-easier?utm_content=bufferf1d2d&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer'
 title: Emulate Bio Organs-On-A-Chip
-datePublished: '2016-02-16T05:25:05.537Z'
+datePublished: '2016-02-16T05:25:09.492Z'
 dateModified: '2016-02-16T05:22:21.194Z'
 sourcePath: _posts/2016-02-16-emulate-bio-organs-on-a-chip.md
 published: true
